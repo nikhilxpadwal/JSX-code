@@ -1,2 +1,3 @@
-# JSX-code
-Created with CodeSandbox
+# js-eatlfx
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-eatlfx)
